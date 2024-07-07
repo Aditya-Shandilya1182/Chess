@@ -10,7 +10,7 @@ This project is a realtime multiplayer chess application developed using TypeScr
 
 - **Realtime Gameplay**: Play chess games in real-time with smooth and responsive gameplay.
 - **Modern UI**: Developed with React for a dynamic and intuitive user interface.
-- **Efficient Communication**: Utilizes WebSockets for real-time communication between players.
+- **Efficient Communication**: Utilizes WebSockets for real-time gameplay.
 - **Robust Logic**: Chess game logic implemented using Chess.js.
 
 ## Setup
