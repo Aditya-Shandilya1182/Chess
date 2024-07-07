@@ -55,3 +55,5 @@ We welcome contributions to enhance the application. Feel free to submit issues 
 ---
 
 Thank you for checking out the Realtime Chess Application!
+
+This app is developed for educational purposes only.
